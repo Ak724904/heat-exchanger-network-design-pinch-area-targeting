@@ -1,7 +1,7 @@
 <h1> Steps to Design Heat Exchanger Network </h1> <br>
 <br>
 <ol>
-  <li> Fill the inputs in the 'Input Sheet' Excel file with appropriate units. We have taken data from B.Linhoff and S.Ahmad March 1990 Fig 2. </li>
+  <li> Fill the inputs in the 'Input Sheet' Excel file with appropriate units. We have taken data from <i> B.Linhoff and S.Ahmad March 1990 </i> Fig 2. </li>
   <li> Run the 'Design for Heat Exchanger Network' Jupyter Notebook. </li>
   <li> Enter a ΔTmin (in our case 20°C) value prompted by the Jupyter Notebook selected by optimizing the cost parameter. </li> 
   <li> Problem Table Algorithm is generated. </li>
