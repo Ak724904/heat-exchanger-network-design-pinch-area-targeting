@@ -54,5 +54,6 @@ If the user has costing information, he/she can make a sound decision to choose 
   </ul>
 <br>
 <br>
-<h3> About the Author: </h3> <br>
+
+**About the Author:**
 This Github repository is made by Abhishek Kundu, currently a final year student pursuing Bachelor of Chemical Engineering course at Institute of Chemical Technology, Mumbai, India. He can be contacted on his LinkedIn profile [here](https://www.linkedin.com/in/abhishek-kundu-a77356166/) for feedback and criticism. 
