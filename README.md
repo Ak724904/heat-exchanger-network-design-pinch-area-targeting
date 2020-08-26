@@ -1,7 +1,7 @@
 # Selection of Optimum ΔTmin and Area Targeting of Heat Exchanger Network Design by Classical Pinch Method
 This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and a corressponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery in the second Jupyter Notebook.
 <br>
-<h3>Input for finding Optimum Minimum Temperature Difference: </h3><br>
+<h3>Input for finding Optimum Minimum Temperature Difference: </h3>
 <br>
 An Excel file containing: <br>
 <ul>
@@ -10,7 +10,7 @@ An Excel file containing: <br>
   <li> Target Temperature (°C)</li>
   <li> Heat Load (kW)</li>
 </ul> <br>
-Overall Heat Transfer Coefficient (W/m2.K) prompted by the Jupyter Notebook <br> 
+Overall Heat Transfer Coefficient (W/m2.K) prompted by the Jupyter Notebook 
 <br>
 <h3> Output to choose Minimum Temperature Difference: </h3> <br>
 <ul>
@@ -26,7 +26,7 @@ An Excel file of 100 rows containing: <br>
   <li> Ideal Minimum Cooling Utility Required (kW) </li>
   <li> Ideal Minimum Area Required (m^2) </li>
  </ul> <br>
-If the user has costing information, he/she can make a sound decision to choose optimum ΔTmin.<br>
+If the user has costing information, he/she can make a sound decision to choose optimum ΔTmin.
 <br>
 <h3> Input for Heat Exchanger Network Design: </h3> <br>
 An Excel file containing: <br>
@@ -50,7 +50,7 @@ An Excel file containing: <br>
   <li> Table to generate Hot Composite Curve </li>
   <li> Table to generate Cold Composite Curve </li>
   <li> Table for Area Targetting of Heat Exchanger Network Design </li>
-  </ul> <br>
+  </ul>
 <br>
 <h3> Assumptions </h3> <br>
 <ul>
@@ -60,15 +60,13 @@ An Excel file containing: <br>
   <li> All the streams in heat exchanger undergo pure countercurrent flow. </li>
   </ul>
 <br>
-<br>
 <h3> References </h3>
 <br>
-The Pinch Design Method for Heat Exchanger Networks- <i> B. Linnhoff </i> and <i> E.Hindmarsh </i> Chemical Engineering Science Vol.38, No. 5, pp. 745-763, 1983 <br>
-Cost Optimum Heat Exchanger Networks-I. Minimum Energy and Capital Using Simple Models for Capital Cost- <i> B. Linnhoff </i> and <i> S. Ahmad </i> Computers Chem. Eng. Vol. 14, No. 7, pp.729-250, 1990 
-<br>
+<ul>
+<li>The Pinch Design Method for Heat Exchanger Networks- <i> B. Linnhoff </i> and <i> E.Hindmarsh </i> Chemical Engineering Science Vol.38, No. 5, pp. 745-763, 1983 </li> <br>
+<li> Cost Optimum Heat Exchanger Networks-I. Minimum Energy and Capital Using Simple Models for Capital Cost- <i> B. Linnhoff </i> and <i> S. Ahmad </i> Computers Chem. Eng. Vol. 14, No. 7, pp.729-750, 1990 </li>
+</ul>
 <br>
 <h3> About the Author: </h3> <br>
 This Github repository is made by Abhishek Kundu, currently a final year student pursuing Bachelor of Chemical Engineering course at Institute of Chemical Technology, Mumbai, India. He can be contacted on his LinkedIn profile <a href = "https://www.linkedin.com/in/abhishek-kundu-a77356166"> here </a> for feedback and criticism. 
-<br>
-<br>
 
