@@ -6,9 +6,9 @@
   <li> Enter a ΔTmin (in our case 20°C) value prompted by the Jupyter Notebook selected by optimizing the cost parameter. </li> 
   <li> Problem Table Algorithm is generated. </li>
   <li> Graphs of Hot Composite Curve, Cold Composite Curve, Grand Composite Curve, Temperature Interval Diagram, and Pinch in the Grid Representation are generated. </li>
-  <li> Necessary table for Area Targetting is generated. </li>
-  <li> Make appropriate divisions in the 'Pinch in the Grid Representation' from the 'minimum_area_calculation' Table for Area Targetting. </li>
-  <li> Place appropriate Heat Exchangers, Coolers, and Heaters to complete the Design. </li>
+  <li> Necessary table for Hot Composite Curve calculation, Cold Composite Curve calculation, and Area Targeting is generated. </li>
+  <li> Make appropriate divisions in the 'Pinch in the Grid Representation' from the Area Targeting table. </li>
+  <li> Place appropriate Heat Exchangers, Coolers, and Heaters to complete the Heat Exchanger Network Design. </li>
 </ol> <br>
 
 ![Pinch in the grid representation](https://user-images.githubusercontent.com/63314951/91294400-11176a00-e7b7-11ea-874c-4fe8a128ddae.png)
