@@ -52,3 +52,9 @@ If the user has costing information, he/she can make a sound decision to choose 
   <li> The pressure drop a stream experiences while going through a heat exchanger is within its permissible limit and no extra compressor is required. </li>
   <li> All the streams in heat exchanger undergo pure countercurrent flow </li>
   </ul>
+<br>
+<br>
+<h3> About the Author: </h3> <br>
+This Github repository is made by Abhishek Kundu, currently a final year student pursuing Bachelor of Chemical Engineering course at Institute of Chemical Technology, Mumbai, India. <br>
+<br>
+  The author can be contacted on his LinkedIn profile [here](https://www.linkedin.com/in/abhishek-kundu-a77356166). 
