@@ -7,7 +7,7 @@
   <li> Graphs of Minimum Area vs Minimum Hot Utility, Minimum Utility vs ΔTmin, Minimum Area vs ΔTmin are generated. </li>
   <li> The output is generated in the 'Optimization of ΔTmin' Excel Sheet. </li> 
   <li> By adding an extra column in the excel sheet by knowing the cost of Heat Exchanger as a function of Area and cost of Hot Utility and Cold Utility per unit, one can select ΔTmin which has minimum total cost. </li>
-  <li> In our example, we have assumed the plant lifetime to be 10 years and area of heat exchanger to be Rs 20 per sq.metre. This makes the cost of heat exchanger to be Rs 2 per sq.metre per year. The cost of hot utility and cold utility are assumed to be Rs 2 and Rs 0.2 per kW.year respectively. Appropriate changes can be made by the user in his respective Excel Sheet. </li>
+  <li> In our example, we have assumed the plant lifetime to be 10 years and area of heat exchanger to be Rs 19 per sq.metre. This makes the cost of heat exchanger to be Rs 19 per sq.metre per year. The cost of hot utility and cold utility are assumed to be Rs 2 and Rs 0.2 per kW.year respectively. Appropriate changes can be made by the user in his respective Excel Sheet. </li>
   <li> A graph of Total Cost vs ΔTmin is plotted, which shows the minimum value of Total Cost to be at ΔTmin = 20°C </li>
   </ol>
 
