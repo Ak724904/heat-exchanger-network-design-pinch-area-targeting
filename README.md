@@ -49,7 +49,7 @@ An Excel file containing: <br>
   <li> Problem Table algorithm for Pinch Analysis </li>
   <li> Table to generate Hot Composite Curve </li>
   <li> Table to generate Cold Composite Curve </li>
-  <li> Table for Area Targetting of Heat Exchanger Network Design </li>
+  <li> Table for Area Targeting of Heat Exchanger Network Design </li>
   </ul>
 <br>
 <h3> Assumptions </h3> <br>
