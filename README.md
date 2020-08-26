@@ -30,6 +30,13 @@ An Excel file of 100 rows containing: <br>
 If the user has costing information, he/she can make a sound decision to choose optimum ΔTmin.<br>
 <br>
 <h3> Input for Heat Exchanger Network Design: </h3> <br>
+An Excel file containing: <br>
+<ul>
+  <li> Stream Information</li>
+  <li> Supply Temperature (°C)</li>
+  <li> Target Temperature (°C)</li>
+  <li> Heat Load (kW)</li>
+</ul> <br>
 ΔTmin (°C) prompted by the Jupyter Notebook <br>
 <h3> Output for Heat Exchanger Network Design: </h3> <br>
 <ul>
