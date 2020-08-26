@@ -1,5 +1,5 @@
 # Heat Exchanger Network Design
-This module contains two Jupyter Notebooks. <br> The first notebook provides relevant data to the user to choose optimum ΔTmin for Heat Exchanger Network Design by considering the trade-off between Minimum Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and uses it in the second Jupyter Notebook. <br> A corressponding Heat Exchanger Network is designed with Minimum Possible Area and Maximum Energy Recovery.
+This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and uses it in the second Jupyter Notebook. <br> Based on the optimum ΔTmin, a corressponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery.
 
 <br>
 <h3>Input for finding Optimum Minimum Temperature Difference: </h3><br>
