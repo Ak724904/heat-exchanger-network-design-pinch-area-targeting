@@ -4,6 +4,7 @@
 <ol>
   <li> Fill the inputs in the 'Input Sheet' Excel file with appropriate units. We have taken data from <i> B.Linhoff and S.Ahmad March 1990 </i> Fig 2. </li>
   <li> Run the Jupyter Notebook 'Optimization of ΔTmin.' </li> 
+  <li> Input the Overall Heat Transfer Coefficient (U) prompted by the Jupyter Notebook </li>
   <li> Graphs of Minimum Area vs Minimum Hot Utility, Minimum Utility vs ΔTmin, Minimum Area vs ΔTmin are generated. </li>
   <li> The output is generated in the 'Optimization of ΔTmin' Excel Sheet. </li> 
   <li> By adding an extra column in the excel sheet by knowing the cost of Heat Exchanger as a function of Area and cost of Hot Utility and Cold Utility per unit, one can select ΔTmin which has minimum total cost. </li>
