@@ -3,7 +3,7 @@
 <ol>
   <li> Input Data in 'Input Sheet' Excel file </li>
   <li> Run the 'Design for Heat Exchanger Network' Jupyter Notebook. </li>
-  <li> Enter a ΔTmin value selected by optimizing the cost parameter. </li>
+  <li> Enter a ΔTmin (in our case 20°C) value selected by optimizing the cost parameter. </li>
   <li> Make appropriate divisions in the 'Pinch in the Grid Representation' from the 'minimum_area_calculation' Table for Area Targetting. </li>
 
   <li> Place appropriate Heat Exchangers, Coolers, and Heaters to complete the Design. </li>
