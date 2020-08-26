@@ -54,8 +54,8 @@ An Excel file containing: <br>
 <br>
 <h3> Assumptions </h3> <br>
 <ul>
-  <li> Heat Capacity Flow Rates (FCp) are constant and doesn't vary from Supply Temperature to Target Temperature. </li>
-  <li> Overall Heat Transfer Coefficient (U) is same for all the stream matches. </li>
+  <li> Heat Capacity Flow Rate (FCp) of all the streams doesn't vary from Supply Temperature to Target Temperature. </li>
+  <li> Overall Heat Transfer Coefficient (U) is constant regardless of the stream matches. </li>
   <li> The pressure drop a stream experiences while going through a heat exchanger is within its permissible limit and no extra compressor is required. </li>
   <li> All the streams in heat exchanger undergo pure countercurrent flow. </li>
   </ul>
