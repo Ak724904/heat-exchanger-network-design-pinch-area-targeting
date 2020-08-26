@@ -1,6 +1,5 @@
-# Heat Exchanger Network Design
-This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and uses it in the second Jupyter Notebook. <br> Based on the optimum ΔTmin, a corressponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery.
-
+# Selection of Optimum ΔTmin and Area Targeting of Heat Exchanger Network Design by Classical Pinch Method
+This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and a corressponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery in the second Jupyter Notebook.
 <br>
 <h3>Input for finding Optimum Minimum Temperature Difference: </h3><br>
 <br>
@@ -58,9 +57,18 @@ An Excel file containing: <br>
   <li> Heat Capacity Flow Rates (FCp) are constant and doesn't vary from Supply Temperature to Target Temperature. </li>
   <li> Overall Heat Transfer Coefficient (U) is same for all the stream matches. </li>
   <li> The pressure drop a stream experiences while going through a heat exchanger is within its permissible limit and no extra compressor is required. </li>
-  <li> All the streams in heat exchanger undergo pure countercurrent flow </li>
+  <li> All the streams in heat exchanger undergo pure countercurrent flow. </li>
   </ul>
+<br>
+<br>
+<h3> References </h3>
+<br>
+The Pinch Design Method for Heat Exchanger Networks- <i> B. Linnhoff </i> and <i> E.Hindmarsh </i> Chemical Engineering Science Vol.38, No. 5, pp. 745-763, 1983 <br>
+Cost Optimum Heat Exchanger Networks-I. Minimum Energy and Capital Using Simple Models for Capital Cost- <i> B. Linnhoff </i> and <i> S. Ahmad </i> Computers Chem. Eng. Vol. 14, No. 7, pp.729-250, 1990 
 <br>
 <br>
 <h3> About the Author: </h3> <br>
 This Github repository is made by Abhishek Kundu, currently a final year student pursuing Bachelor of Chemical Engineering course at Institute of Chemical Technology, Mumbai, India. He can be contacted on his LinkedIn profile <a href = "https://www.linkedin.com/in/abhishek-kundu-a77356166"> here </a> for feedback and criticism. 
+<br>
+<br>
+
