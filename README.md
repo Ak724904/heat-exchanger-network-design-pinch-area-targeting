@@ -1,5 +1,6 @@
 # Heat Exchanger Network Design
-This module contains two Jupyter Notebooks. <br> The first notebook provides relevant data to the user to choose optimum ΔTmin for Heat Exchanger Network Design by considering the trade-off between Minimum Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and uses it in the second Jupyter Notebook which generates the composite curves by the classical pinch method that can be used for area targetting and maximum energy recovery.
+This module contains two Jupyter Notebooks. <br> The first notebook provides relevant data to the user to choose optimum ΔTmin for Heat Exchanger Network Design by considering the trade-off between Minimum Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and uses it in the second Jupyter Notebook. <br> A corressponding Heat Exchanger Network is designed with Minimum Possible Area and Maximum Energy Recovery.
+
 <br>
 <h3>Input for finding Optimum Minimum Temperature Difference: </h3><br>
 <br>
