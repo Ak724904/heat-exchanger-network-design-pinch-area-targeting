@@ -1,5 +1,5 @@
 # Selection of Optimum ΔTmin and Area Targeting of Heat Exchanger Network Design by Classical Pinch Method
-This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and a corressponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery in the second Jupyter Notebook.
+This project contains two Jupyter Notebooks for design of a Heat Exchanger Network. <br> The first Jupyter Notebook provides relevant data to the user to choose optimum Minimum Temperature Difference by considering the trade-off between Heat Exchanger Area and Utility Requirement. <br> Based on the data and costing information, the user selects an optimum ΔTmin and a corresponding Heat Exchanger Network is designed with Minimum Possible Area without compromising on the Maximum Possible Energy Recovery in the second Jupyter Notebook.
 <br>
 <h3>Input for finding Optimum Minimum Temperature Difference: </h3>
 <br>
