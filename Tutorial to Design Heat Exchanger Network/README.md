@@ -9,6 +9,8 @@
   <li> Place appropriate Heat Exchangers, Coolers, and Heaters to complete the Design. </li>
 </ol> <br>
 
+![Pinch in the grid representation](https://user-images.githubusercontent.com/63314951/91294400-11176a00-e7b7-11ea-874c-4fe8a128ddae.png)
+
 ![Area Targetting Table](https://user-images.githubusercontent.com/63314951/91294039-8afb2380-e7b6-11ea-9c07-bb6c4b914067.PNG)
 
 ![Heat Exchanger Network Step 1](https://user-images.githubusercontent.com/63314951/91291987-85500e80-e7b3-11ea-8fdd-d4c735bd58c4.PNG) <br>
