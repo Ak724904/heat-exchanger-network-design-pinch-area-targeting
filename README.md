@@ -14,7 +14,7 @@ Overall Heat Transfer Coefficient (W/m2.K) prompted by the Jupyter Notebook
 <br>
 <h3> Output to choose Minimum Temperature Difference: </h3> <br>
 <ul>
-  <li> Graph of Minimum Area vs Minimum Utility Required </li>
+  <li> Graph of Minimum Area vs Minimum Hot Utility Required </li>
   <li> Graph of Minimum Area vs ΔTmin </li>
   <li> Graph of Minimum Utility vs ΔTmin </li>
 </ul> <br>
